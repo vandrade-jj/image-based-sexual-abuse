@@ -1,16 +1,22 @@
-# Image-Based Sexual Abuse Website
+# Nonconsensual Distribution of Intimate Images Website
 
-This is a static website for a class project.
+This site is a class website about nonconsensual distribution of intimate images, a focused form of image-based sexual abuse.
 
-## Files
-- `index.html` is the homepage.
-- Other `.html` files are the navigation pages.
-- `style.css` controls the colors, layout, navigation, and mobile design.
-- `images/homepage-illustration.svg` is a placeholder homepage image.
+## Editing
+- Home page: `index.html`
+- Offender page: `image-based-abusers.html`
+- Victim page: `victim-survivors.html`
+- Impact page: `crime-impact.html`
+- Laws page: `laws.html`
+- Help page: `help-for-survivors.html`
+- References: `references.html`
+- Styling: `style.css`
 
-## Publish with GitHub Pages
-1. Upload all files and the `images` folder to the GitHub repository.
-2. Go to Settings > Pages.
-3. Under Source, choose "Deploy from a branch."
-4. Choose branch `main` and folder `/root`.
-5. Save and wait for the live website link.
+## Replacing the homepage image
+Upload your Canva JPG into the `images` folder. If you name it `homepage.jpg`, edit `index.html` and change:
+
+`images/homepage-illustration.svg`
+
+to:
+
+`images/homepage.jpg`
