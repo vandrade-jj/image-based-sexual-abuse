@@ -1,22 +1,14 @@
 # Nonconsensual Distribution of Intimate Images Website
 
-This site is a class website about nonconsensual distribution of intimate images, a focused form of image-based sexual abuse.
+This is a static website for a class project.
 
-## Editing
-- Home page: `index.html`
-- Offender page: `image-based-abusers.html`
-- Victim page: `victim-survivors.html`
-- Impact page: `crime-impact.html`
-- Laws page: `laws.html`
-- Help page: `help-for-survivors.html`
-- References: `references.html`
-- Styling: `style.css`
+## Files
 
-## Replacing the homepage image
-Upload your Canva JPG into the `images` folder. If you name it `homepage.jpg`, edit `index.html` and change:
+- `index.html` is the homepage.
+- Other `.html` files are the navigation pages.
+- `style.css` controls colors, layout, navigation, and mobile design.
+- The `images` folder contains the homepage image and power/control wheel.
 
-`images/homepage-illustration.svg`
+## Update Notes
 
-to:
-
-`images/homepage.jpg`
+This version uses dark text on light backgrounds, bullet-based content on the Home, Offender, and Victim-Survivors pages, and references at the bottom of pages.
