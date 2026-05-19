@@ -104,7 +104,7 @@ body {
   font-size: clamp(1.02rem, 1.55vw, 1.24rem);
   line-height: 1.55;
   color: var(--muted);
-  text-align: justify;
+  text-align: left;
 }
 
 .button {
@@ -186,7 +186,7 @@ body {
 .feature-row ul {
   margin: 0;
   padding-left: 1.25rem;
-  text-align: justify;
+  text-align: left;
 }
 
 .page {
@@ -205,7 +205,7 @@ body {
   line-height: 1.58;
   color: var(--muted);
   margin-bottom: 32px;
-  text-align: justify;
+  text-align: left;
 }
 
 .card-grid {
@@ -242,6 +242,35 @@ body {
   color: var(--navy);
 }
 
+
+.methods-section > h2 {
+  text-align: center;
+  margin-bottom: 28px;
+}
+
+.methods-list {
+  align-items: start;
+}
+
+.method-col {
+  padding: 0 14px;
+}
+
+.method-col h3 {
+  display: inline-block;
+  padding-bottom: 8px;
+  margin-bottom: 14px;
+  border-bottom: 3px solid var(--cyan);
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 1.5px;
+}
+
+.method-col ul {
+  border-top: 1px solid var(--line);
+  padding-top: 14px;
+}
+
 .feature-row {
   display: grid;
   grid-template-columns: 1fr 0.92fr;
@@ -261,11 +290,23 @@ body {
   background: #f7f2e9;
 }
 
+
+.image-card ul {
+  margin: 12px 0 0;
+  padding-left: 1.2rem;
+  color: var(--text);
+}
+
+.image-card li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
 .image-card figcaption {
   margin-top: 12px;
   font-size: 0.95rem;
   color: var(--muted);
-  text-align: justify;
+  text-align: left;
 }
 
 .note {
@@ -304,7 +345,36 @@ footer {
   }
 
   .hero,
-  .feature-row {
+  
+.methods-section > h2 {
+  text-align: center;
+  margin-bottom: 28px;
+}
+
+.methods-list {
+  align-items: start;
+}
+
+.method-col {
+  padding: 0 14px;
+}
+
+.method-col h3 {
+  display: inline-block;
+  padding-bottom: 8px;
+  margin-bottom: 14px;
+  border-bottom: 3px solid var(--cyan);
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 1.5px;
+}
+
+.method-col ul {
+  border-top: 1px solid var(--line);
+  padding-top: 14px;
+}
+
+.feature-row {
     grid-template-columns: 1fr;
     gap: 35px;
   }
@@ -358,7 +428,7 @@ footer {
 .disclaimer-box p {
   color: var(--text);
   line-height: 1.62;
-  text-align: justify;
+  text-align: left;
 }
 
 a {
