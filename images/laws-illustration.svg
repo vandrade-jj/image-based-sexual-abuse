@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="520" viewBox="0 0 760 520" role="img" aria-label="Law and digital safety illustration">
+  <rect width="760" height="520" rx="26" fill="#fbf7ef"/>
+  <circle cx="380" cy="260" r="170" fill="#e7dcca"/>
+  <rect x="185" y="170" width="270" height="210" rx="16" fill="#0f2147"/>
+  <rect x="210" y="195" width="220" height="28" rx="7" fill="#f3efe6"/>
+  <rect x="210" y="245" width="190" height="20" rx="6" fill="#f3efe6" opacity=".86"/>
+  <rect x="210" y="285" width="210" height="20" rx="6" fill="#f3efe6" opacity=".86"/>
+  <rect x="485" y="132" width="110" height="240" rx="22" fill="#0f2147"/>
+  <rect x="502" y="160" width="76" height="165" rx="8" fill="#f3efe6"/>
+  <circle cx="540" cy="348" r="8" fill="#00a9c9"/>
+  <path d="M285 398h190" stroke="#00a9c9" stroke-width="16" stroke-linecap="round"/>
+  <path d="M330 135h150" stroke="#0f2147" stroke-width="18" stroke-linecap="round"/>
+  <text x="380" y="93" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#0f2147">Law + Digital Evidence</text>
+</svg>

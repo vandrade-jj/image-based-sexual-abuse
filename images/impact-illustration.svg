@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="520" viewBox="0 0 760 520" role="img" aria-label="Online harm spreading illustration">
+  <rect width="760" height="520" rx="26" fill="#fbf7ef"/>
+  <circle cx="380" cy="260" r="150" fill="#e7dcca"/>
+  <rect x="270" y="120" width="220" height="290" rx="28" fill="#0f2147"/>
+  <rect x="292" y="150" width="176" height="222" rx="12" fill="#f3efe6"/>
+  <circle cx="380" cy="390" r="10" fill="#00a9c9"/>
+  <path d="M320 235c35-44 84-44 120 0" stroke="#0f2147" stroke-width="18" stroke-linecap="round" fill="none" opacity=".22"/>
+  <circle cx="218" cy="158" r="38" fill="#00a9c9" opacity=".82"/>
+  <circle cx="548" cy="150" r="34" fill="#00a9c9" opacity=".72"/>
+  <circle cx="580" cy="360" r="42" fill="#00a9c9" opacity=".62"/>
+  <circle cx="185" cy="360" r="30" fill="#00a9c9" opacity=".55"/>
+  <path d="M260 170l-38-12M492 160l54-10M492 335l82 25M268 338l-78 24" stroke="#0f2147" stroke-width="8" stroke-linecap="round" opacity=".42"/>
+  <text x="380" y="93" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#0f2147">Digital Harm Spreads Quickly</text>
+</svg>

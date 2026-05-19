@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 420" role="img" aria-labelledby="t d">
+<title id="t">Offender profile</title><desc id="d">pressure · exposure · control</desc>
+<defs>
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#07131c"/><stop offset="1" stop-color="#1f3340"/></linearGradient>
+  <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M 38 0 L 0 0 0 38" fill="none" stroke="rgba(236,225,205,.08)" stroke-width="1"/></pattern>
+</defs>
+<rect width="1100" height="420" fill="url(#g)"/>
+<rect width="1100" height="420" fill="url(#grid)"/>
+<circle cx="940" cy="90" r="110" fill="none" stroke="#c9a34b" stroke-width="2" opacity=".35"/>
+<circle cx="150" cy="315" r="135" fill="none" stroke="#b83a2e" stroke-width="3" opacity=".35"/>
+<g transform="translate(95 90)">
+  <rect x="0" y="0" width="270" height="180" rx="18" fill="#ecdfc8" opacity=".94"/>
+  <rect x="28" y="34" width="214" height="12" fill="#b83a2e" opacity=".85"/>
+  <rect x="28" y="70" width="180" height="10" fill="#233642" opacity=".75"/>
+  <rect x="28" y="100" width="216" height="10" fill="#233642" opacity=".5"/>
+  <rect x="28" y="130" width="145" height="10" fill="#233642" opacity=".5"/>
+</g>
+<g transform="translate(490 72)">
+  <rect x="0" y="0" width="290" height="200" rx="24" fill="#0e202c" stroke="#ecdfc8" stroke-width="4" opacity=".9"/>
+  <rect x="34" y="38" width="222" height="120" rx="12" fill="#112b39" stroke="#c9a34b" stroke-width="2"/>
+  <circle cx="94" cy="94" r="22" fill="#b83a2e" opacity=".9"/>
+  <path d="M130 126 C172 64 204 152 236 82" fill="none" stroke="#ecdfc8" stroke-width="8" stroke-linecap="round"/>
+</g>
+<text x="95" y="340" font-family="Georgia, serif" font-size="42" fill="#ecdfc8" font-weight="700">Offender profile</text>
+<text x="95" y="378" font-family="Arial, sans-serif" font-size="18" fill="#c9a34b" letter-spacing="4">pressure · exposure · control</text>
+</svg>
