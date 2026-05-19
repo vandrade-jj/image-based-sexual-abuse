@@ -340,61 +340,31 @@ footer {
 }
 
 
-/* Professor feedback updates */
-.content-block,
-.card,
-.home-summary article,
-.image-card,
-.page-references,
-.site-disclaimer {
-  color: var(--text);
+.disclaimer-box {
+  background: #fff4dc;
+  border: 1px solid rgba(15, 33, 71, 0.25);
+  border-left: 6px solid var(--cyan);
+  border-radius: 14px;
+  padding: 22px 24px;
+  margin-top: 28px;
 }
 
-.page li,
-.home-summary li,
-.card li,
-.content-block li {
-  margin-bottom: 0.72rem;
-  text-align: justify;
-}
-
-.feature-row .content-block ul,
-.card ul,
-.content-block ul,
-.home-summary ul {
-  text-align: justify;
-}
-
-.page a {
-  color: #006f86;
-  font-weight: 700;
-}
-
-.compact-image img {
-  max-height: 390px;
-  object-fit: contain;
-}
-
-.site-disclaimer {
-  max-width: 1120px;
-  margin: 0 auto 42px;
-  padding: 22px 28px;
-  background: #fdf8ef;
-  border: 1px solid var(--line);
-  border-radius: 18px;
-  box-shadow: 0 10px 24px rgba(15, 33, 71, 0.07);
-}
-
-.site-disclaimer h2 {
+.disclaimer-box h2 {
+  margin-top: 0;
   color: var(--navy);
-  margin: 0 0 10px;
-  font-size: 1.15rem;
+  font-weight: 800;
 }
 
-.site-disclaimer p {
-  margin: 0;
+.disclaimer-box p {
   color: var(--text);
-  line-height: 1.55;
-  font-size: 0.98rem;
+  line-height: 1.62;
   text-align: justify;
+}
+
+a {
+  color: #007b91;
+}
+
+a:hover {
+  color: #005466;
 }
